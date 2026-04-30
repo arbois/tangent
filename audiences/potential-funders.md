@@ -1,4 +1,4 @@
-I wanted to tell you about a programme I'm involved with and ask if you'd be willing to help.
+I wanted to make sure you know about a programme I think is worth your attention.
 
 Tangent is a 24-month fellowship providing up to S$200,000 for young people in Singapore — aged 18–21, or 18–22 for men with NS obligations — who have real potential that Singapore's existing grants, incubators, and accelerators can't see. Potential that doesn't show up as grades, credentials, or startup experience. Tangent is privately funded.
 
@@ -8,4 +8,4 @@ If you'd like to help:
 - Refer a young person who belongs in Tangent
 - Support the programme with funding or resources
 
-tangent.org.sg has details on the programme and how it works, how to apply, how to refer someone, and how to get involved as a guide.
+https://tangent.org.sg/ has details on the programme and how it works, how to apply, how to refer someone, and how to get involved as a guide.
