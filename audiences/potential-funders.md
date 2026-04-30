@@ -1,6 +1,6 @@
 I wanted to make sure you know about a programme I think is worth your attention.
 
-Tangent is a 24-month programme providing up to S$200,000 for young people in Singapore — aged 18–21, or 18–22 for men with NS obligations — who have real potential that Singapore's existing grants, incubators, and accelerators can't see. Potential that doesn't show up as grades, credentials, or startup experience. Tangent is privately funded.
+Tangent is a 24-month programme providing up to S$200,000 per participant for young people in Singapore — aged 18–21, or 18–22 for men with NS obligations — who have real potential that Singapore's existing grants, incubators, and accelerators can't see. Potential that doesn't show up as grades, credentials, or startup experience. Tangent is privately funded.
 
 It starts with a four-week programme: S$1,000, AI tools, and human guides. No mandatory courses, no assignments. Participants define their own work — a business, a social enterprise, or any other idea for making a good living — and show results at the end of four weeks. Those who want to continue pitch for the full 24-month programme.
 
