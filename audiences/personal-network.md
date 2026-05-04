@@ -1,12 +1,12 @@
 I wanted to make sure you know about a programme I think is worth your attention — and ask if you'd be willing to help.
 
-Tangent is a 24-month programme providing up to S$200,000 per participant for young people in Singapore — aged 18–21 for women and men without NS obligations, 18–22 for men with NS obligations — who are self-directed and motivated but whose potential isn't legible to Singapore's existing system. They wouldn't apply to the usual incubators and accelerators, and those programmes wouldn't select them if they did.
+Tangent is an AI applications incubator that gives up to S$200,000 over 24 months per participant. It's for young people based in Singapore (not just for citizens and PRs) — aged 18–21 for women and men without NS obligations, 18–22 for men with NS obligations — who are self-directed and motivated but whose potential may not be legible to Singapore's existing system. 
 
-It starts with a four-week programme: S$1,000, AI tools, and human guides. No courses, no assignments. Participants define their own work and show results at the end of four weeks. Several universities have already agreed to defer matriculation, so participants can treat it as a low-cost experiment. Those who want to continue pitch for the full 24-month programme.
+It starts with a four-week programme: S$1,000, AI tools, and human guides. No courses, no assignments. Participants define their own work and show results at the end of four weeks. Several universities have already agreed to defer matriculation, so participants can treat it as a low-cost experiment. Those who want to continue can pitch for the full 24-month programme. We're very open-minded about the kinds of entrepreneurship we want to support.
 
-Three things that would make a real difference:
-- Come in as a guide for two hours during a cohort — available to participants if they want to talk, nothing structured required
-- Refer anyone you know who belongs in this programme
-- Share this with others in your network who should know about it
+Three ways you can help:
+- Come in as a guide for two hours, just once, to be available to participants if they want to talk, nothing structured required
+- Refer high-potential young people to the programme
+- Share this widely with your network so they can refer applicants and/or be guides
 
 https://tangent.org.sg/ has details on the programme and how it works, how to apply, how to refer someone, and how to get involved as a guide.
