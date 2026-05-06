@@ -5,8 +5,8 @@ Tangent is an AI applications incubator that gives up to S$200,000 over 24 month
 It starts with a four-week programme: S$1,000, AI tools, and human guides. No courses, no assignments. Participants define their own work and show results at the end of four weeks. Those who want to continue can pitch for the full 24-month programme. Several universities have already agreed to defer matriculation, so participants can treat it as a low-cost experiment. We're very open-minded about the kinds of entrepreneurship we want to support.
 
 Three ways you can help:
-- Come in as a guide for two hours, just once, to be available to participants if they want to talk, nothing structured required
-- Refer high-potential young people to the programme
-- Share this widely with your network so they can refer applicants and/or be guides
+1. Come in as a guide for two hours, just once, to be available to participants if they want to talk, nothing structured required
+2. Refer high-potential young people to the programme
+3. Share this widely with your network so they can refer applicants and/or be guides
 
 https://tangent.org.sg/ has details on the programme and how it works, how to apply, how to refer someone, and how to get involved as a guide.
