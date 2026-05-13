@@ -10,3 +10,5 @@ Three ways you can help:
 3. Share this widely with your network so they can refer applicants and/or be guides
 
 https://tangent.org.sg/ has details on the programme and how it works, how to apply, how to refer someone, and how to get involved as a guide.
+
+(And in case they’re curious who’s behind Tangent: I’m the exec director of Tangent, and also a Fellow of the Singapore Government’s Centre for Strategic Futures, an ex-Googler, and founding faculty in strategy and entrepreneurship at University College London’s School of Management (now honorary associate professor). More about me at https://www.linkedin.com/in/vaughntan and https://vaughntan.org/. Tangent’s startup funding comes via the Majurity Trust: https://www.majurity.sg/.)
